@@ -1,1 +1,1 @@
-Gitremot
+remote origin
